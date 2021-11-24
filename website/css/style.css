@@ -1,0 +1,85 @@
+.yuxari{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    /* background-color: red; */
+    margin-bottom: 241px;
+    background-image: url(../img/1552887216.jpg);
+    /* background-size:contain;
+    background-repeat: no-repeat; */
+        background-size: cover;
+    background-position: center;
+    
+}
+.yuxari h1{
+    color: #ffffff;
+    position: absolute;
+    margin-top: 333px;
+    margin-left: 20px;
+    font-family: Times New Roman;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+.orta{
+    font-family: Courier New;
+    display: inline-block;
+    height: 31px;
+    color: #cfcfff;
+    position: relative;
+    left: -7px;
+    top: 342px;
+    font-weight: bold;
+    margin-left: 22px;
+}
+
+
+
+.ortareng{
+    background: #747171;
+    width: 101%;
+    height: 71px;
+    position: relative;
+    left: -7px;
+    right: 18px;
+    top: 389px;
+    bottom: 0;
+    margin-left: -1px;
+    padding-left: 2px;
+}
+a:hover{
+    color: blanchedalmond;
+    border: 6px solid black;
+}
+a:active{
+    color: black;
+}
+a:visited{
+    color: blanchedalmond;
+}
+
+.asaqi{
+    background: white;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 360px;
+    right: -9px;
+
+}
+
+.asaqi h1{
+    margin-bottom: -16px;
+    color: green;
+}
+
+.asaqi p{
+    font-weight: bold;
+    width: 32%;
+    font-family: fangsong;
+}
